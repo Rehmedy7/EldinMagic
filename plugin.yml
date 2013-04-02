@@ -1,0 +1,6 @@
+name: EldinMagic
+description: Custom magic plugin.
+version: 0.1
+commands:
+  c:
+    description: Displays help for EldinMagic.
